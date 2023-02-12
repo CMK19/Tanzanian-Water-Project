@@ -15,6 +15,7 @@ In this project our goal is to create a model that would most accurately predict
 ### Business Problem.
 Using data gathered from Taarifa and the Tanzanian Ministry of Water, we are tasked with analyzing the different features corresponding to functional and non functional water pumps with the goal of creating a model that can predict if a pump needs to be replaced.Through this analysis implementation of actionable plans for fixing and replacing water pumps through out Tanzania will be made.
 
+### Data Understanding
 This project's datasets come from Taarifa:an open source platform for the crowd sourced reporting and triaging of infrastructure related issues. The datasets were then downloaded from DriveData.
 
 These datasets contain information about 59,400 water pumps throughout Tanzania.The first dataset contains ID numbers and feature information about each water pump. The second dataset contains ID numbers and pump conditions for each water pump.
